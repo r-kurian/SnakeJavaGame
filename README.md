@@ -16,13 +16,13 @@ every java-beginner should do something like this :)
 
 
 The project implements the following:
-• Working with the collection;
-
-• Working with a queue that implements the classic circular buffer;
-
-• Working with multithreading;
-
-• Working with an event listener;
-
+> • Working with the collection;
+>
+> • Working with a queue that implements the classic circular buffer;
+>
+> • Working with multithreading;
+>
+> • Working with an event listener;
+>
 
 ![Build Status](https://github.com/r-kurian/SnakeJavaGame/blob/master/JavaSnakeGamePlay.png?branch=master)
